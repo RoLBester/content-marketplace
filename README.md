@@ -1,3 +1,2 @@
 # Content Marketplace
-A Flask-based decentralized content marketplace.
-##
+Welcome to the Decentralized Content Marketplace!
