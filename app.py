@@ -6,7 +6,7 @@ app = Flask(__name__)
 # Define a route for the homepage
 @app.route('/')
 def home():
-    return "Welcome to the Digital Content Marketplace!"
+    return "Welcome to the Decentralized Content Marketplace!"
 
 # Run the application
 if __name__ == "__main__":
